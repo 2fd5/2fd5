@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @2fd5
+- 👋 Hi, I’m Magic Friday
+- :robot: I'm working on a game in Godot 4
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning web3.0
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning about game dev in practice
+- 💞️ I’m looking to collaborate on small game projects
 - 📫 How to reach me ...
 
 <!---
